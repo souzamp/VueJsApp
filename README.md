@@ -1,3 +1,5 @@
+# VueJsApp
+Repository to study VueJs. Book vuejs-build-app-incredible Casa do Código
 # todo-list
 
 > A Vue.js project
